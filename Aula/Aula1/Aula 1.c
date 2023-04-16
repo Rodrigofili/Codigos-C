@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<locale>
+#include<locale.h>
 
 int main(){
 	setlocale(LC_ALL, "Portuguese");
 
-	printf(" C\n é uma linguagem de programação\n muito legal\n");
+	printf(" C\n ï¿½ uma linguagem de programaï¿½ï¿½o\n muito legal\n");
 
 	system("pause");
 	
